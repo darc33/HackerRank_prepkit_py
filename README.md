@@ -1,1 +1,1 @@
-Solutions for some of the HackerRank Preparation kit problems
+Solutions for some of the HackerRank Preparation kit problems and mock tests
